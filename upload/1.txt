@@ -1,0 +1,14 @@
+good afternoon everyone.my final year project was power generation using footsteps.
+
+
+Day by day, the population of the country increased and the requirement of the power is also increased. 
+At the same time the wastage of energy also increased in many ways. So reforming this energy back to usable form is the major solution.
+ As technology is developed and the use of gadgets, electronic devices also increased.
+ Power generation using conservative methods becoming deficient. There is a necessity arises for a different power generation method.
+ At the same time the energy is wasted due to human locomotion and many ways.
+ To overcome this problem, the energy wastage can be converted to usable form using the footsteps itself.
+it is basically based on the principle that converting mechanical energy into an electrical energy.in this project we placed
+ckt made by us below the sole of shooe whenever pressure apllied by foot the mechaniacal energy into electrical 
+and the generated energy is stored in battery n whenevr we needto charge the electronics gadget that time we can use the battery.
+from designing and finally to implementation my team contribute equal work in it.n my learning from this is team workn hard work.
+ 
